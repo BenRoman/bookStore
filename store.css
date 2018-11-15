@@ -1,0 +1,17 @@
+.cover{
+    height: 250px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.book{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 33%;
+    margin: 2px auto;
+ }
+
+.book-panel{
+    margin-top: 15px;
+    padding: 10px;
+}
